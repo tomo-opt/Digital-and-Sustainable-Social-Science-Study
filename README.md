@@ -14,20 +14,18 @@ AI与人文社科的深度融合需要跨学科、跨领域的协作与交流。
 
 
 ## 参考文献
+Bail, C.A., 2024. Can Generative AI improve social science?. Proceedings of the National Academy of Sciences, 121(21), p.e2314021121.
+
 Breuer, J., Putting the AI into social science. KI-Kritik/AI Critique Volume 6, p.255.
 
 Grossmann, I., Feinberg, M., Parker, D.C., Christakis, N.A., Tetlock, P.E. and Cunningham, W.A., 2023. AI and the transformation of social science research. Science, 380(6650), pp.1108-1109.
 
+Johnson, O.A., Allen, A.A. And Adeusi, O., 2024. Exploring The Transformative Roles Of Ai In The Field Of Social Sciences. International Journal of Pure and Applied Science.
+
 Xu, R., Sun, Y., Ren, M., Guo, S., Pan, R., Lin, H., Sun, L. and Han, X., 2024. AI for social science and social science of AI: A survey. Information Processing & Management, 61(3), p.103665.
 
-Bail, C.A., 2024. Can Generative AI improve social science?. Proceedings of the National Academy of Sciences, 121(21), p.e2314021121.
-
 Ziems, C., Held, W., Shaikh, O., Chen, J., Zhang, Z. and Yang, D., 2024. Can large language models transform computational social science?. Computational Linguistics, 50(1), pp.237-291. 
-
-Johnson, O.A., Allen, A.A. And Adeusi, O., 2024. Exploring The Transformative Roles Of Ai In The Field Of Social Sciences. International Journal of Pure and Applied Science.
 
 苏新宁 & 吕先竞, 2025). 人工智能赋能人文社会科学研究方法变革.西华大学学报(哲学社会科学版)(01),1-10+121.
 
 谢天，邱林，李雨曈，等, 2023. .大模型时代的社会科学，何去何从? [J].图书情报知识，40（6）：6-9,30.
-
-
